@@ -1,0 +1,17 @@
+body{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  background-color: #FFEBEB;
+}
+
+.comingsoonImg{
+  margin: 100px auto 50px;
+  display: block;
+  width: 344px;
+}
+
+.comingsoonText{
+  color: #503320;
+  text-align: center;
+}
